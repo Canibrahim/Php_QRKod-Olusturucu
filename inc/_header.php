@@ -17,8 +17,8 @@
     <meta charset="utf-8">
     <title>CnTR QRKod Olusturucu</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="QR-Code Generator">
-    <meta name="author" content="FoxSash">
+    <meta name="description" content="CnTR QRKod Olusturucu">
+    <meta name="author" content="CnTR">
 
      <!-- style dosya başlangıç -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
